@@ -1,0 +1,659 @@
+[[1]]
+[1] "both"
+
+[[2]]
+[1] "Suits"
+
+[[3]]
+[1] 211
+
+[[4]]
+[1] 1000
+
+$statistic
+        D 
+0.4793365 
+
+$p.value
+[1] 0
+
+$alternative
+[1] "two-sided"
+
+$method
+[1] "Asymptotic two-sample Kolmogorov-Smirnov test"
+
+$data.name
+[1] "lReal$chiTab and lSim$chiTab"
+
+$data
+$data$x
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 8.txt 
+                                                                                                                        9.887944e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 8.txt 
+                                                                                                                        9.114125e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 4.txt 
+                                                                                                                        8.664658e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 2.txt 
+                                                                                                                        8.137453e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_22_54_42.subd/processed__05_07_2022_23_01_15.subdir/Actual/Hand: 4.txt 
+                                                                                                                        8.137453e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 6.txt 
+                                                                                                                        8.137453e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 12.txt 
+                                                                                                                        7.552117e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 4.txt 
+                                                                                                                        7.552117e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 8.txt 
+                                                                                                                        7.552117e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 4.txt 
+                                                                                                                        6.929832e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 7.txt 
+                                                                                                                        6.929832e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_16_40_32.subd/processed__02_22_2022_16_42_40.subdir/Actual/Hand: 1.txt 
+                                                                                                                        6.929832e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 4.txt 
+                                                                                                                        6.929832e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 7.txt 
+                                                                                                                        6.929832e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 9.txt 
+                                                                                                                        6.929832e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 2.txt 
+                                                                                                                        6.929832e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 12.txt 
+                                                                                                                        6.291108e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_14_2022_00_56_16.subd/processed__03_14_2022_00_57_42.subdir/Actual/Hand: 1.txt 
+                                                                                                                        6.291108e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_23_14_57.subd/processed__05_06_2022_23_19_51.subdir/Actual/Hand: 4.txt 
+                                                                                                                        5.654267e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_23_58_52.subd/processed__05_07_2022_00_05_10.subdir/Actual/Hand: 4.txt 
+                                                                                                                        5.654267e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_20_10_41.subd/processed__02_22_2022_20_40_06.subdir/Actual/Hand: 2.txt 
+                                                                                                                        5.654267e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 6.txt 
+                                                                                                                        5.654267e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_19_24_26.subd/processed__03_12_2022_19_25_50.subdir/Actual/Hand: 1.txt 
+                                                                                                                        5.654267e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 8.txt 
+                                                                                                                        5.654267e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 4.txt 
+                                                                                                                        5.034603e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 8.txt 
+                                                                                                                        5.034603e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_09_2022_19_20_49.subd/processed__03_09_2022_19_22_40.subdir/Actual/Hand: 1.txt 
+                                                                                                                        5.034603e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 8.txt 
+                                                                                                                        5.034603e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 10.txt 
+                                                                                                                        5.034603e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 8.txt 
+                                                                                                                        5.034603e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 4.txt 
+                                                                                                                        5.034603e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 8.txt 
+                                                                                                                        4.444050e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 6.txt 
+                                                                                                                        4.444050e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_12_15_53.subd/processed__05_08_2022_12_25_38.subdir/Actual/Hand: 4.txt 
+                                                                                                                        4.444050e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_20_47_53.subd/processed__05_06_2022_20_53_32.subdir/Actual/Hand: 4.txt 
+                                                                                                                        4.444050e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_22_26_45.subd/processed__05_06_2022_22_34_10.subdir/Actual/Hand: 1.txt 
+                                                                                                                        4.444050e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_22_54_42.subd/processed__05_07_2022_23_01_15.subdir/Actual/Hand: 2.txt 
+                                                                                                                        4.444050e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 7.txt 
+                                                                                                                        3.891232e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 3.txt 
+                                                                                                                        3.891232e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_11_2022_12_25_14.subd/processed__03_11_2022_12_31_21.subdir/Actual/Hand: 2.txt 
+                                                                                                                        3.381747e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 4.txt 
+                                                                                                                        3.381747e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 12.txt 
+                                                                                                                        3.381747e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 6.txt 
+                                                                                                                        3.381747e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 13.txt 
+                                                                                                                        3.381747e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 6.txt 
+                                                                                                                        3.381747e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_20_47_53.subd/processed__05_06_2022_20_53_32.subdir/Actual/Hand: 3.txt 
+                                                                                                                        3.381747e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_16_05_31.subd/processed__05_07_2022_16_16_02.subdir/Actual/Hand: 5.txt 
+                                                                                                                        3.381747e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_20_01_18.subd/processed__03_12_2022_20_02_52.subdir/Actual/Hand: 1.txt 
+                                                                                                                        3.381747e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 9.txt 
+                                                                                                                        2.918593e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 9.txt 
+                                                                                                                        2.918593e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 8.txt 
+                                                                                                                        2.918593e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 13.txt 
+                                                                                                                        2.918593e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_20_47_53.subd/processed__05_06_2022_20_53_32.subdir/Actual/Hand: 5.txt 
+                                                                                                                        2.918593e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_14_2022_01_05_33.subd/processed__03_14_2022_01_06_55.subdir/Actual/Hand: 1.txt 
+                                                                                                                        2.918593e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 6.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 2.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 5.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_17_05_20.subd/processed__05_06_2022_17_11_47.subdir/Actual/Hand: 2.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 4.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 8.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 9.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 1.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_13_2022_13_07_33.subd/processed__03_13_2022_13_12_17.subdir/Actual/Hand: 1.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 2.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 9.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 5.txt 
+                                                                                                                        2.502637e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_11_28_42.subd/processed__03_12_2022_11_31_55.subdir/Actual/Hand: 2.txt 
+                                                                                                                        2.133093e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 6.txt 
+                                                                                                                        2.133093e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 1.txt 
+                                                                                                                        2.133093e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 6.txt 
+                                                                                                                        2.133093e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 3.txt 
+                                                                                                                        2.133093e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 6.txt 
+                                                                                                                        2.133093e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 8.txt 
+                                                                                                                        2.133093e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_17_00_04.subd/processed__03_12_2022_17_01_47.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.807958e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_23_14_57.subd/processed__05_06_2022_23_19_51.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.807958e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_16_05_31.subd/processed__05_07_2022_16_16_02.subdir/Actual/Hand: 3.txt 
+                                                                                                                        1.807958e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 11.txt 
+                                                                                                                        1.807958e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 12.txt 
+                                                                                                                        1.807958e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 9.txt 
+                                                                                                                        1.807958e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_17_05_20.subd/processed__05_06_2022_17_11_47.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.807958e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_17_05_20.subd/processed__05_06_2022_17_11_47.subdir/Actual/Hand: 4.txt 
+                                                                                                                        1.807958e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 4.txt 
+                                                                                                                        1.524392e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_22_26_45.subd/processed__05_06_2022_22_34_10.subdir/Actual/Hand: 4.txt 
+                                                                                                                        1.524392e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_22_54_42.subd/processed__05_07_2022_23_01_15.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.524392e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 5.txt 
+                                                                                                                        1.524392e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_20_10_41.subd/processed__02_22_2022_20_40_06.subdir/Actual/Hand: 5.txt 
+                                                                                                                        1.524392e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 4.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 5.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_20_47_53.subd/processed__05_06_2022_20_53_32.subdir/Actual/Hand: 2.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_12_15_53.subd/processed__05_08_2022_12_25_38.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.279040e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 10.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_17_36_12.subd/processed__03_12_2022_17_37_28.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_13_2022_13_07_33.subd/processed__03_13_2022_13_12_17.subdir/Actual/Hand: 2.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_23_14_57.subd/processed__05_06_2022_23_19_51.subdir/Actual/Hand: 2.txt 
+                                                                                                                        1.279040e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 12.txt 
+                                                                                                                        1.279040e-01 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 10.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 7.txt 
+                                                                                                                        1.279040e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 5.txt 
+                                                                                                                        1.068286e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 9.txt 
+                                                                                                                        1.068286e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 2.txt 
+                                                                                                                        1.068286e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 4.txt 
+                                                                                                                        1.068286e-01 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 3.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 3.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 6.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_17_08_18.subd/processed__02_23_2022_17_10_00.subdir/Actual/Hand: 1.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 7.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_23_58_52.subd/processed__05_07_2022_00_05_10.subdir/Actual/Hand: 2.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_16_05_31.subd/processed__05_07_2022_16_16_02.subdir/Actual/Hand: 4.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 1.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 3.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 2.txt 
+                                                                                                                        8.884459e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 10.txt 
+                                                                                                                        8.884459e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_18_37_45.subd/processed__03_12_2022_18_39_01.subdir/Actual/Hand: 1.txt 
+                                                                                                                        7.359173e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 2.txt 
+                                                                                                                        7.359173e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_11_2022_12_25_14.subd/processed__03_11_2022_12_31_21.subdir/Actual/Hand: 3.txt 
+                                                                                                                        7.359173e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 5.txt 
+                                                                                                                        7.359173e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 1.txt 
+                                                                                                                        7.359173e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 10.txt 
+                                                                                                                        6.072763e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 7.txt 
+                                                                                                                        6.072763e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 10.txt 
+                                                                                                                        6.072763e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 10.txt 
+                                                                                                                        6.072763e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 11.txt 
+                                                                                                                        6.072763e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_22_54_42.subd/processed__05_07_2022_23_01_15.subdir/Actual/Hand: 3.txt 
+                                                                                                                        6.072763e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 7.txt 
+                                                                                                                        6.072763e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_20_10_41.subd/processed__02_22_2022_20_40_06.subdir/Actual/Hand: 7.txt 
+                                                                                                                        4.993430e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 11.txt 
+                                                                                                                        4.993430e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 11.txt 
+                                                                                                                        4.092185e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_16_05_31.subd/processed__05_07_2022_16_16_02.subdir/Actual/Hand: 6.txt 
+                                                                                                                        4.092185e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 2.txt 
+                                                                                                                        4.092185e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_16_52_46.subd/processed__03_12_2022_16_54_26.subdir/Actual/Hand: 1.txt 
+                                                                                                                        4.092185e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_12_15_53.subd/processed__05_08_2022_12_25_38.subdir/Actual/Hand: 2.txt 
+                                                                                                                        4.092185e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 2.txt 
+                                                                                                                        4.092185e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 11.txt 
+                                                                                                                        4.092185e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_12_15_53.subd/processed__05_08_2022_12_25_38.subdir/Actual/Hand: 5.txt 
+                                                                                                                        4.092185e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out01_16_2022_21_53_18.subd/processed__01_16_2022_21_54_45.subdir/Actual/Hand: 1.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_20_10_41.subd/processed__02_22_2022_20_40_06.subdir/Actual/Hand: 3.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_20_10_41.subd/processed__02_22_2022_20_40_06.subdir/Actual/Hand: 4.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 2.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 5.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 4.txt 
+                                                                                                                        3.343003e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 13.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 5.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 9.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_11_2022_12_25_14.subd/processed__03_11_2022_12_31_21.subdir/Actual/Hand: 1.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 3.txt 
+                                                                                                                        3.343003e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out01_17_2022_01_58_52.subd/processed__01_17_2022_02_00_35.subdir/Actual/Hand: 1.txt 
+                                                                                                                        2.722816e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 3.txt 
+                                                                                                                        2.722816e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 5.txt 
+                                                                                                                        2.722816e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 3.txt 
+                                                                                                                        2.722816e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 9.txt 
+                                                                                                                        2.722816e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_14_2022_01_11_40.subd/processed__03_14_2022_01_12_58.subdir/Actual/Hand: 1.txt 
+                                                                                                                        2.722816e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_10_2022_09_29_43.subd/processed__03_10_2022_09_46_04.subdir/Actual/Hand: 7.txt 
+                                                                                                                        2.722816e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_23_58_52.subd/processed__05_07_2022_00_05_10.subdir/Actual/Hand: 1.txt 
+                                                                                                                        2.211410e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 10.txt 
+                                                                                                                        2.211410e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_12_15_53.subd/processed__05_08_2022_12_25_38.subdir/Actual/Hand: 3.txt 
+                                                                                                                        2.211410e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_17_32_00.subd/processed__03_12_2022_17_33_16.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_18_12_01.subd/processed__03_12_2022_18_13_30.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 3.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 9.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_11_28_42.subd/processed__03_12_2022_11_31_55.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_17_13_13.subd/processed__03_12_2022_17_14_36.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_13_2022_13_07_33.subd/processed__03_13_2022_13_12_17.subdir/Actual/Hand: 3.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 7.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_30_2022_13_09_39.subd/processed__04_30_2022_13_11_22.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.791240e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_23_58_52.subd/processed__05_07_2022_00_05_10.subdir/Actual/Hand: 3.txt 
+                                                                                                                        1.447210e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 6.txt 
+                                                                                                                        1.447210e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_00_18_40.subd/processed__05_06_2022_00_20_09.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.166426e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 5.txt 
+                                                                                                                        1.166426e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.166426e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 2.txt 
+                                                                                                                        1.166426e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_13_42_43.subd/processed__03_12_2022_13_44_58.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.166426e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 2.txt 
+                                                                                                                        1.166426e-02 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 11.txt 
+                                                                                                                        1.166426e-02 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 3.txt 
+                                                                                                                        9.379557e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 5.txt 
+                                                                                                                        9.379557e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_20_10_41.subd/processed__02_22_2022_20_40_06.subdir/Actual/Hand: 6.txt 
+                                                                                                                        9.379557e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_20_47_53.subd/processed__05_06_2022_20_53_32.subdir/Actual/Hand: 1.txt 
+                                                                                                                        9.379557e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 7.txt 
+                                                                                                                        9.379557e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_16_05_31.subd/processed__05_07_2022_16_16_02.subdir/Actual/Hand: 2.txt 
+                                                                                                                        9.379557e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_20_10_41.subd/processed__02_22_2022_20_40_06.subdir/Actual/Hand: 1.txt 
+                                                                                                                        7.525833e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_20_12.subd/processed__04_25_2022_18_21_56.subdir/Actual/Hand: 1.txt 
+                                                                                                                        7.525833e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_23_2022_11_31_09.subd/processed__02_23_2022_11_49_56.subdir/Actual/Hand: 8.txt 
+                                                                                                                        7.525833e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_17_59_24.subd/processed__03_12_2022_18_00_41.subdir/Actual/Hand: 1.txt 
+                                                                                                                        7.525833e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_20_31_28.subd/processed__05_07_2022_20_48_00.subdir/Actual/Hand: 9.txt 
+                                                                                                                        7.525833e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_17_05_20.subd/processed__05_06_2022_17_11_47.subdir/Actual/Hand: 3.txt 
+                                                                                                                        7.525833e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 1.txt 
+                                                                                                                        7.525833e-03 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 11.txt 
+                                                                                                                        7.525833e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_00_49_31.subd/processed__05_08_2022_01_18_01.subdir/Actual/Hand: 3.txt 
+                                                                                                                        6.025851e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_18_27_54.subd/processed__04_25_2022_18_47_14.subdir/Actual/Hand: 9.txt 
+                                                                                                                        4.815210e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 1.txt 
+                                                                                                                        4.815210e-03 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_04_39_53.subd/processed__05_08_2022_04_57_50.subdir/Actual/Hand: 10.txt 
+                                                                                                                        4.815210e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 1.txt 
+                                                                                                                        3.840467e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_14_06_38.subd/processed__03_12_2022_14_08_13.subdir/Actual/Hand: 1.txt 
+                                                                                                                        2.429853e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_23_14_57.subd/processed__05_06_2022_23_19_51.subdir/Actual/Hand: 3.txt 
+                                                                                                                        2.429853e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_08_2022_15_57_41.subd/processed__05_08_2022_16_09_59.subdir/Actual/Hand: 5.txt 
+                                                                                                                        2.429853e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_22_26_45.subd/processed__05_06_2022_22_34_10.subdir/Actual/Hand: 2.txt 
+                                                                                                                        2.429853e-03 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 10.txt 
+                                                                                                                        1.927849e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_17_27_42.subd/processed__03_12_2022_17_29_07.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.927849e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out02_22_2022_22_45_41.subd/processed__02_22_2022_23_04_22.subdir/Actual/Hand: 7.txt 
+                                                                                                                        1.527110e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_01_2022_20_06_05.subd/processed__03_01_2022_20_26_54.subdir/Actual/Hand: 7.txt 
+                                                                                                                        1.527110e-03 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_22_26_45.subd/processed__05_06_2022_22_34_10.subdir/Actual/Hand: 3.txt 
+                                                                                                                        4.659599e-04 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 10.txt 
+                                                                                                                        2.871700e-04 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_14_59_47.subd/processed__05_07_2022_15_17_44.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.377334e-04 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_07_2022_16_05_31.subd/processed__05_07_2022_16_16_02.subdir/Actual/Hand: 1.txt 
+                                                                                                                        1.377334e-04 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out04_25_2022_20_25_42.subd/processed__04_25_2022_20_43_04.subdir/Actual/Hand: 3.txt 
+                                                                                                                        6.543353e-05 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out05_06_2022_00_13_24.subd/processed__05_06_2022_00_15_26.subdir/Actual/Hand: 1.txt 
+                                                                                                                        3.081894e-05 
+ /Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 6.txt 
+                                                                                                                        2.393602e-05 
+/Volumes/Lacie_mini_2TB/tcpflow.minusS/tcpflow.out03_12_2022_09_43_26.subd/processed__03_12_2022_09_59_06.subdir/Actual/Hand: 10.txt 
+                                                                                                                        8.638433e-06 
+
+$data$y
+   [1] 0.9968512540 0.9968512540 0.9968512540 0.9968512540 0.9968512540
+   [6] 0.9968512540 0.9968512540 0.9887943865 0.9887943865 0.9887943865
+  [11] 0.9887943865 0.9887943865 0.9887943865 0.9727459149 0.9727459149
+  [16] 0.9727459149 0.9727459149 0.9727459149 0.9727459149 0.9727459149
+  [21] 0.9727459149 0.9727459149 0.9727459149 0.9727459149 0.9727459149
+  [26] 0.9727459149 0.9727459149 0.9727459149 0.9727459149 0.9727459149
+  [31] 0.9727459149 0.9727459149 0.9727459149 0.9470784182 0.9470784182
+  [36] 0.9470784182 0.9470784182 0.9470784182 0.9470784182 0.9470784182
+  [41] 0.9470784182 0.9470784182 0.9470784182 0.9470784182 0.9470784182
+  [46] 0.9470784182 0.9470784182 0.9470784182 0.9470784182 0.9470784182
+  [51] 0.9470784182 0.9114125268 0.9114125268 0.9114125268 0.9114125268
+  [56] 0.9114125268 0.9114125268 0.9114125268 0.9114125268 0.9114125268
+  [61] 0.9114125268 0.9114125268 0.9114125268 0.9114125268 0.9114125268
+  [66] 0.9114125268 0.9114125268 0.9114125268 0.9114125268 0.9114125268
+  [71] 0.9114125268 0.9114125268 0.9114125268 0.9114125268 0.9114125268
+  [76] 0.9114125268 0.9114125268 0.9114125268 0.9114125268 0.9114125268
+  [81] 0.9114125268 0.9114125268 0.9114125268 0.9114125268 0.9114125268
+  [86] 0.9114125268 0.9114125268 0.9114125268 0.9114125268 0.9114125268
+  [91] 0.9114125268 0.9114125268 0.8664657816 0.8664657816 0.8664657816
+  [96] 0.8664657816 0.8664657816 0.8664657816 0.8664657816 0.8664657816
+ [101] 0.8664657816 0.8664657816 0.8664657816 0.8664657816 0.8664657816
+ [106] 0.8664657816 0.8664657816 0.8664657816 0.8664657816 0.8664657816
+ [111] 0.8664657816 0.8664657816 0.8664657816 0.8664657816 0.8664657816
+ [116] 0.8664657816 0.8664657816 0.8664657816 0.8664657816 0.8137453369
+ [121] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [126] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [131] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [136] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [141] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [146] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [151] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [156] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [161] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [166] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [171] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [176] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [181] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [186] 0.8137453369 0.8137453369 0.8137453369 0.8137453369 0.8137453369
+ [191] 0.8137453369 0.8137453369 0.8137453369 0.7552116980 0.7552116980
+ [196] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [201] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [206] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [211] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [216] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [221] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [226] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [231] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [236] 0.7552116980 0.7552116980 0.7552116980 0.7552116980 0.7552116980
+ [241] 0.7552116980 0.7552116980 0.6929832345 0.6929832345 0.6929832345
+ [246] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [251] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [256] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [261] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [266] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [271] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [276] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [281] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [286] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [291] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [296] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [301] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [306] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [311] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [316] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [321] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6929832345
+ [326] 0.6929832345 0.6929832345 0.6929832345 0.6929832345 0.6291107548
+ [331] 0.6291107548 0.6291107548 0.6291107548 0.6291107548 0.6291107548
+ [336] 0.6291107548 0.6291107548 0.6291107548 0.6291107548 0.6291107548
+ [341] 0.6291107548 0.6291107548 0.6291107548 0.6291107548 0.6291107548
+ [346] 0.6291107548 0.6291107548 0.6291107548 0.6291107548 0.6291107548
+ [351] 0.6291107548 0.6291107548 0.6291107548 0.6291107548 0.6291107548
+ [356] 0.6291107548 0.6291107548 0.6291107548 0.6291107548 0.6291107548
+ [361] 0.6291107548 0.6291107548 0.6291107548 0.6291107548 0.6291107548
+ [366] 0.6291107548 0.6291107548 0.6291107548 0.6291107548 0.5654266808
+ [371] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [376] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [381] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [386] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [391] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [396] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [401] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [406] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [411] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [416] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [421] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [426] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [431] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [436] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [441] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [446] 0.5654266808 0.5654266808 0.5654266808 0.5654266808 0.5654266808
+ [451] 0.5654266808 0.5654266808 0.5654266808 0.5034602803 0.5034602803
+ [456] 0.5034602803 0.5034602803 0.5034602803 0.5034602803 0.5034602803
+ [461] 0.5034602803 0.5034602803 0.5034602803 0.5034602803 0.5034602803
+ [466] 0.5034602803 0.5034602803 0.5034602803 0.5034602803 0.5034602803
+ [471] 0.5034602803 0.5034602803 0.5034602803 0.5034602803 0.5034602803
+ [476] 0.5034602803 0.5034602803 0.5034602803 0.5034602803 0.5034602803
+ [481] 0.5034602803 0.5034602803 0.5034602803 0.5034602803 0.5034602803
+ [486] 0.5034602803 0.5034602803 0.5034602803 0.5034602803 0.4444050124
+ [491] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [496] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [501] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [506] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [511] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [516] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [521] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [526] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [531] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [536] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [541] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [546] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [551] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [556] 0.4444050124 0.4444050124 0.4444050124 0.4444050124 0.4444050124
+ [561] 0.4444050124 0.3891231952 0.3891231952 0.3891231952 0.3891231952
+ [566] 0.3891231952 0.3891231952 0.3891231952 0.3891231952 0.3891231952
+ [571] 0.3891231952 0.3891231952 0.3891231952 0.3891231952 0.3891231952
+ [576] 0.3891231952 0.3891231952 0.3891231952 0.3891231952 0.3891231952
+ [581] 0.3891231952 0.3891231952 0.3891231952 0.3891231952 0.3891231952
+ [586] 0.3891231952 0.3891231952 0.3891231952 0.3891231952 0.3891231952
+ [591] 0.3891231952 0.3891231952 0.3891231952 0.3891231952 0.3891231952
+ [596] 0.3891231952 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [601] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [606] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [611] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [616] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [621] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [626] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [631] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [636] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [641] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [646] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [651] 0.3381747493 0.3381747493 0.3381747493 0.3381747493 0.3381747493
+ [656] 0.3381747493 0.3381747493 0.2918593072 0.2918593072 0.2918593072
+ [661] 0.2918593072 0.2918593072 0.2918593072 0.2918593072 0.2918593072
+ [666] 0.2918593072 0.2918593072 0.2918593072 0.2918593072 0.2918593072
+ [671] 0.2918593072 0.2918593072 0.2918593072 0.2918593072 0.2918593072
+ [676] 0.2918593072 0.2918593072 0.2918593072 0.2918593072 0.2918593072
+ [681] 0.2918593072 0.2918593072 0.2918593072 0.2918593072 0.2918593072
+ [686] 0.2918593072 0.2918593072 0.2918593072 0.2918593072 0.2918593072
+ [691] 0.2918593072 0.2918593072 0.2502637003 0.2502637003 0.2502637003
+ [696] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [701] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [706] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [711] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [716] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [721] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [726] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [731] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [736] 0.2502637003 0.2502637003 0.2502637003 0.2502637003 0.2502637003
+ [741] 0.2133093051 0.2133093051 0.2133093051 0.2133093051 0.2133093051
+ [746] 0.2133093051 0.2133093051 0.2133093051 0.2133093051 0.2133093051
+ [751] 0.2133093051 0.2133093051 0.2133093051 0.2133093051 0.2133093051
+ [756] 0.2133093051 0.2133093051 0.2133093051 0.2133093051 0.2133093051
+ [761] 0.2133093051 0.2133093051 0.2133093051 0.2133093051 0.2133093051
+ [766] 0.2133093051 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [771] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [776] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [781] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [786] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [791] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [796] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [801] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [806] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [811] 0.1807957689 0.1807957689 0.1807957689 0.1807957689 0.1807957689
+ [816] 0.1807957689 0.1807957689 0.1807957689 0.1524392005 0.1524392005
+ [821] 0.1524392005 0.1524392005 0.1524392005 0.1524392005 0.1524392005
+ [826] 0.1524392005 0.1524392005 0.1524392005 0.1524392005 0.1524392005
+ [831] 0.1524392005 0.1524392005 0.1524392005 0.1524392005 0.1524392005
+ [836] 0.1524392005 0.1524392005 0.1524392005 0.1524392005 0.1524392005
+ [841] 0.1524392005 0.1524392005 0.1524392005 0.1524392005 0.1524392005
+ [846] 0.1524392005 0.1279040396 0.1279040396 0.1279040396 0.1279040396
+ [851] 0.1279040396 0.1279040396 0.1279040396 0.1279040396 0.1279040396
+ [856] 0.1279040396 0.1279040396 0.1279040396 0.1279040396 0.1279040396
+ [861] 0.1279040396 0.1279040396 0.1279040396 0.1279040396 0.1279040396
+ [866] 0.1279040396 0.1279040396 0.1279040396 0.1279040396 0.1279040396
+ [871] 0.1279040396 0.1279040396 0.1279040396 0.1279040396 0.1279040396
+ [876] 0.1279040396 0.1279040396 0.1279040396 0.1279040396 0.1279040396
+ [881] 0.1279040396 0.1279040396 0.1279040396 0.1068285791 0.1068285791
+ [886] 0.1068285791 0.1068285791 0.1068285791 0.1068285791 0.1068285791
+ [891] 0.1068285791 0.1068285791 0.1068285791 0.1068285791 0.1068285791
+ [896] 0.1068285791 0.1068285791 0.0888445872 0.0888445872 0.0888445872
+ [901] 0.0888445872 0.0888445872 0.0888445872 0.0888445872 0.0888445872
+ [906] 0.0888445872 0.0888445872 0.0888445872 0.0888445872 0.0888445872
+ [911] 0.0888445872 0.0888445872 0.0888445872 0.0888445872 0.0888445872
+ [916] 0.0888445872 0.0888445872 0.0888445872 0.0888445872 0.0888445872
+ [921] 0.0888445872 0.0888445872 0.0888445872 0.0735917333 0.0735917333
+ [926] 0.0735917333 0.0735917333 0.0735917333 0.0735917333 0.0735917333
+ [931] 0.0735917333 0.0735917333 0.0735917333 0.0735917333 0.0735917333
+ [936] 0.0735917333 0.0607276285 0.0607276285 0.0607276285 0.0607276285
+ [941] 0.0607276285 0.0607276285 0.0607276285 0.0607276285 0.0607276285
+ [946] 0.0499342991 0.0499342991 0.0499342991 0.0499342991 0.0499342991
+ [951] 0.0499342991 0.0499342991 0.0499342991 0.0499342991 0.0409218545
+ [956] 0.0409218545 0.0409218545 0.0409218545 0.0409218545 0.0409218545
+ [961] 0.0409218545 0.0409218545 0.0409218545 0.0409218545 0.0409218545
+ [966] 0.0409218545 0.0409218545 0.0334300279 0.0334300279 0.0334300279
+ [971] 0.0334300279 0.0272281602 0.0272281602 0.0272281602 0.0272281602
+ [976] 0.0272281602 0.0272281602 0.0221141018 0.0221141018 0.0221141018
+ [981] 0.0221141018 0.0221141018 0.0221141018 0.0221141018 0.0144720974
+ [986] 0.0116642606 0.0116642606 0.0116642606 0.0116642606 0.0093795575
+ [991] 0.0075258332 0.0030574607 0.0030574607 0.0030574607 0.0030574607
+ [996] 0.0019278492 0.0019278492 0.0015271098 0.0004659599 0.0004659599
+
+
+$exact
+[1] FALSE
+

@@ -1,0 +1,4 @@
+pathname:  /Volumes/Lacie_mini_2TB/tcpflow.minusS//tcpflow.out01_05_2023_10_26_28.subd/miscellaneous/metadata/metadata.txt
+pgm:  heartsDriver2.sh
+game:  hearts
+nhands:  11

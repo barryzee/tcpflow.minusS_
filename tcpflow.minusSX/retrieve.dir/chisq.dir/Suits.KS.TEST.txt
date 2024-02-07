@@ -1,0 +1,25 @@
+[[1]]
+[1] "Suits"
+
+[[2]]
+[1] 93
+
+[[3]]
+[1] 1000
+
+$statistic
+        D 
+0.4373978 
+
+$p.value
+[1] 1.454392e-14
+
+$alternative
+[1] "two-sided"
+
+$method
+[1] "Two-sample Kolmogorov-Smirnov test"
+
+$data.name
+[1] "lReal$chiTab and lSim$chiTab"
+

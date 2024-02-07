@@ -1,0 +1,4 @@
+	game	hand	trick	row	col	before	after	annotation
+1	1	5	pass	LEFT	6_S	0.28	0.6	NA
+2	1	5	1	LEFT	8_S	0.27	0.55	NA
+3	1	5	3	LEFT	8_S	0.53	0.6	NA

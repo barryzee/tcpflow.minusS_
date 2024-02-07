@@ -1,0 +1,4 @@
+manualUpdateProbs:	TRUE
+pgm:	playWholeHandDriverPassParams
+game:	hearts
+hand:	7

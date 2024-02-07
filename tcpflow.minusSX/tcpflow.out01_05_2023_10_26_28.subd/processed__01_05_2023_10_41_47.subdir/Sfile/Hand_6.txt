@@ -1,0 +1,13 @@
+9 C 2 C A C Q C
+3 C K C J C 4 C
+10 D A D J D K D
+K S 10 S 3 S 5 S
+J S 7 S A S Q S
+9 S 8 C 10 C Q H
+4 H A H 2 H Q D
+4 S 6 S K H 8 S
+8 H 7 D J H 2 S
+2 D 5 C 10 H 3 D
+4 D 7 H 9 H 5 D
+8 D 6 H 7 C 6 D
+3 H 5 H 6 C 9 D
